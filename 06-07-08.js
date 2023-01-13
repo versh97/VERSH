@@ -32,7 +32,7 @@ function crearClasePersona() {
       // No debe retornar nada.
 
       // Tu código aca:
-      this.hobbies.push({hobbies: hobby});
+      this.hobbies.push(hobby);
 
     }
     getFriends() {
